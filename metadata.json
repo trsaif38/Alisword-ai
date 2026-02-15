@@ -1,0 +1,7 @@
+{
+  "name": "Alisword - The Ultimate Forge",
+  "description": "A premium fantasy-themed platform for legendary swords and artifacts, featuring AI-powered artifact appraisal and legendary blade generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
